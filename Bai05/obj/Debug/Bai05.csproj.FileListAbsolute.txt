@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\bin\Debug\Bai05.exe.config
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\bin\Debug\Bai05.exe
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\bin\Debug\Bai05.pdb
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.Form1.resources
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.exe
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.pdb
+C:\Users\Admin\Desktop\dhcntt\Năm 2\Hk1\Lap trinh truc quan\BTH4_NguyenCanhDuy_22520324\BTH4_NguyenCanhDuy_22520324\Bai05\obj\Debug\Bai05.Form2.resources
