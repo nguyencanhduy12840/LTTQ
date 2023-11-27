@@ -21,7 +21,7 @@ namespace Bai03
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Ban co chac muon thoat khong?", "Xac nhan", MessageBoxButtons.YesNo);
+            DialogResult result = MessageBox.Show("Ban co gay khong?", "Xac nhan", MessageBoxButtons.YesNo);
             if(result == DialogResult.Yes)
             {
                 Close();
